@@ -5,7 +5,7 @@ ASP.NET App using MVC
 
 ![Screenshot](screenshots/screenshot2.JPG)
 
-![Screenshot](screenshots/screensho3.JPG)
+![Screenshot](screenshots/screenshot3.JPG)
 
 ![Screenshot](screenshots/screenshot4.JPG)
 
